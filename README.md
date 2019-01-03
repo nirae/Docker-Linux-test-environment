@@ -3,7 +3,7 @@
 ## Description
 Just a Dockerfile for build a ready linux (debian) container for testing what you want on linux very quickly.
 
-Made specialy for 42 school or people on Mac OS (Not tested on Windows) who's working on C code and want to compile and test it on linux easily. With this container, you'll be able to test, compile, debug, or use valgrind with your C code.
+Made specialy for 42 school or people on Mac OS (Not tested on Windows) who's working on C code and want to compile and test it on linux easily. With this container, you'll be able to test, compile, debug, or whatever with your program or what you want.
 
 ## Usage
 
