@@ -23,6 +23,6 @@ The run command mount a volume with your current directory and put all the files
 
 Now you just have to compile your program or test what you want in the container! The file modifications outside the container will be updated automatically in the container, thanks to the volume.
 
-<img src="gif_docker.gif" width=80%>
+<img src="gif_docker.gif" width=100%>
 
 Enjoy! :smile:
